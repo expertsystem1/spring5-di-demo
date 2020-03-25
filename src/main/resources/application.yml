@@ -3,3 +3,8 @@ guru:
     username: JMS Username
     password: JMS Password
     url:  JML Url
+# 3 dashes are used as file separator 
+---
+spring:  profiles: deguru:
+  jms:
+    username: JMS VINCENZEN!
